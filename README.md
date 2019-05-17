@@ -1,4 +1,4 @@
-##Welcome
+## Welcome
 I made this litlle game with React documentation and the tutorial, i found it simple and really complete to start with React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
