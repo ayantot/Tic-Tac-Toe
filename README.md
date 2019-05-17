@@ -1,3 +1,6 @@
+##Welcome
+I made this litlle game with React documentation and the tutorial, i found it simple and really complete to start with React.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -14,7 +17,8 @@ You will also see any lint errors in the console.
 
 ### `npm test`
 
-Launches the test runner in the interactive watch mode.<br>
+#Tic Tac Toe
+ I built this little game with the React documentation and the tutorial, i found it 
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
